@@ -55,6 +55,15 @@ Observacion: a traves de este analisis podemos considerar que entrar en LONG a p
 4. Declaracion de etiqueta en valor de cotizacion promedio y su valor Max.
 
 <hr>
+### Utilizacion de KPIS
+Media movil 20 y 50: 
+1:Establecer un objetivo: visualizar si esta media movil se encuentra por encima o por debajo del precio de cotizacion.
+Establecer un indicador numérico: promedio de los ultimos 20 y 50 periodos
+Establecer un plazo: en el año 2023 el precio ha bajado notablemente y la media movil nos da una buena opcion para la entrada en posicion.
+Establecer una meta: cuando se cruzan estas media moviles nos dara el punto de mejor entrada para tomar posicion.
+Monitorear y medir: Finalmente, es importante monitorear y medir regularmente el progreso hacia el objetivo establecido.
+
+<hr>
 
  ###Creacion de Dashboard Amazon, Apple, Meta, Microsoft, Tesla (Desde 2019 - 2023)
  1. Creacion de grafico de lineas con el precio de cotizacion y la media movil de 20 periodos para cada grafico.
