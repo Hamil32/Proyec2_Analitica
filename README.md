@@ -57,11 +57,11 @@ Observacion: a traves de este analisis podemos considerar que entrar en LONG a p
 <hr>
 ### Utilizacion de KPIS
 Media movil 20 y 50: 
-1:Establecer un objetivo: visualizar si esta media movil se encuentra por encima o por debajo del precio de cotizacion.
-Establecer un indicador numérico: promedio de los ultimos 20 y 50 periodos
-Establecer un plazo: en el año 2023 el precio ha bajado notablemente y la media movil nos da una buena opcion para la entrada en posicion.
-Establecer una meta: cuando se cruzan estas media moviles nos dara el punto de mejor entrada para tomar posicion.
-Monitorear y medir: Finalmente, es importante monitorear y medir regularmente el progreso hacia el objetivo establecido.
+1. Establecer un objetivo: visualizar si esta media movil se encuentra por encima o por debajo del precio de cotizacion.
+2. Establecer un indicador numérico: promedio de los ultimos 20 y 50 periodos
+3. Establecer un plazo: en el año 2023 el precio ha bajado notablemente y la media movil nos da una buena opcion para la entrada en posicion.
+4. Establecer una meta: cuando se cruzan estas media moviles nos dara el punto de mejor entrada para tomar posicion.
+5. Monitorear y medir: Finalmente, es importante monitorear y medir regularmente el progreso hacia el objetivo establecido.
 
 <hr>
 
